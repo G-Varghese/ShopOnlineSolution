@@ -826,3 +826,4 @@ C:\Users\tomst\Downloads\Sample Works\Blazor\ShopOnlineSolution\ShopOnline.Web\b
 C:\Users\tomst\Downloads\Sample Works\Blazor\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\compressed\akikq6mv6j.gz
 C:\Users\tomst\Downloads\Sample Works\Blazor\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\compressed\so7eqmsqar.gz
 C:\Users\tomst\Downloads\Sample Works\Blazor\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\scopedcss\Pages\DisplayProducts.razor.rz.scp.css
+C:\Users\tomst\Downloads\Sample Works\Blazor\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\ShopOnline.Web.sourcelink.json

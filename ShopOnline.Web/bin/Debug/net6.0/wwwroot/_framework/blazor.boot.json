@@ -1,7 +1,7 @@
 {
   "entryAssembly": "ShopOnline.Web",
   "resources": {
-    "hash": "sha256-0gdwCqm2HlAgllb9YeUMyjxq8uoCMNAQ2ebyFe6T++o=",
+    "hash": "sha256-gs4CeREl/7RpdP/yHxuFexXFgBMJ+frewUoIlmi9Urg=",
     "runtime": {
       "dotnet.6.0.25.rftiujyu9c.js": "sha256-1jUGCCSGH9JWhkqbHdQk8JBjBI8K/VC63En5zlypVps=",
       "dotnet.timezones.blat": "sha256-KsGUR9nqtXb3Hy6IrNlnc1HoSS+AFlsXTX9rq4oChtA=",
@@ -201,11 +201,11 @@
       "netstandard.dll": "sha256-O9JhHo5KqxkmwmapuxuhG/iMRV7RHcrCDO9z+yv+8yI=",
       "System.Private.CoreLib.dll": "sha256-6rKu8tPdUGsvbSpesoNMVzbx7bNqPRMPV34eI7vSYaQ=",
       "ShopOnline.Models.dll": "sha256-vpfqiLhyyKDCDsMYCbObMfUx7Tq/z6bDZ4ITXgk3XFo=",
-      "ShopOnline.Web.dll": "sha256-V9+3I4K7wl1ahwomlGBW9LUEKWVmnVtJBH5imkm2I/4="
+      "ShopOnline.Web.dll": "sha256-3fN93b6jch8DLUNVUMklDwXFKjHClF0knaEVLvS/WQY="
     },
     "pdb": {
       "ShopOnline.Models.pdb": "sha256-dDH5QFPm9YVGZWZbeZC0Y8ycENLaTWxZeOAGFZN2+9Y=",
-      "ShopOnline.Web.pdb": "sha256-0R1+Tlg4O3Cl8Nkx9bpedh5ND/AJBrW77rDM3B3uJUs="
+      "ShopOnline.Web.pdb": "sha256-T1k1QKByXMtRJ9b+853bJf9VEAeTW8DQiwO/K+Advio="
     },
     "runtimeAssets": {
       "dotnet.wasm": {
