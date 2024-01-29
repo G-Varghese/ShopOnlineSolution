@@ -65,3 +65,4 @@ C:\Users\tomst\Downloads\Sample Works\Blazor\ShopOnlineSolution\OnlineStore.Api\
 C:\Users\tomst\Downloads\Sample Works\Blazor\ShopOnlineSolution\OnlineStore.Api\obj\Debug\net6.0\ref\ShopOnline.Api.dll
 C:\Users\tomst\Downloads\Sample Works\Blazor\ShopOnlineSolution\OnlineStore.Api\bin\Debug\net6.0\ShopOnline.Models.dll
 C:\Users\tomst\Downloads\Sample Works\Blazor\ShopOnlineSolution\OnlineStore.Api\bin\Debug\net6.0\ShopOnline.Models.pdb
+C:\Users\tomst\Downloads\Sample Works\Blazor\ShopOnlineSolution\OnlineStore.Api\obj\Debug\net6.0\ShopOnline.Api.sourcelink.json

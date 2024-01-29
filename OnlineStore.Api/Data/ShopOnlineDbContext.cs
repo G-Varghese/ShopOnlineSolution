@@ -4,8 +4,6 @@ namespace ShopOnline.Api.Data
 {
     public class ShopOnlineDbContext:DbContext
     {
-
-
         public ShopOnlineDbContext(DbContextOptions<ShopOnlineDbContext> options)
         : base(options)
         {
@@ -21,24 +19,24 @@ namespace ShopOnline.Api.Data
             base.OnModelCreating(modelBuilder);
 
             //Products
-            //Beauty Category
+            //Earrings Category
             modelBuilder.Entity<Product>().HasData(new Product
             {
                 Id = 1,
-                Name = "Glossier - Beauty Kit",
-                Description = "A kit provided by Glossier, containing skin care, hair care and makeup products",
-                ImageURL = "/Images/Beauty/Beauty1.png",
-                Price = 100,
-                Qty = 100,
+                Name = "White Pearl Gold Drop Jhumka",
+                Description = "Stylish and trendy traditional white pearl gold jhumka",
+                ImageURL = "/Images/Earrings/Earrings1.png",
+                Price = 50,
+                Qty = 200,
                 CategoryId = 1
 
             });
             modelBuilder.Entity<Product>().HasData(new Product
             {
                 Id = 2,
-                Name = "Curology - Skin Care Kit",
-                Description = "A kit provided by Curology, containing skin care products",
-                ImageURL = "/Images/Beauty/Beauty2.png",
+                Name = "Contemporary Crystal Stone",
+                Description = "Muticolor stone statement earring, captivating crystal and an eye catchy lion drop",
+                ImageURL = "/Images/Earrings/Earrings2.png",
                 Price = 50,
                 Qty = 45,
                 CategoryId = 1
@@ -47,9 +45,9 @@ namespace ShopOnline.Api.Data
             modelBuilder.Entity<Product>().HasData(new Product
             {
                 Id = 3,
-                Name = "Cocooil - Organic Coconut Oil",
-                Description = "A kit provided by Curology, containing skin care products",
-                ImageURL = "/Images/Beauty/Beauty3.png",
+                Name = "Red Ruby Stones",
+                Description = "Handcrafted in silver and brass alloy with cz stones",
+                ImageURL = "/Images/Earrings/Earrings3.png",
                 Price = 20,
                 Qty = 30,
                 CategoryId = 1
@@ -58,9 +56,9 @@ namespace ShopOnline.Api.Data
             modelBuilder.Entity<Product>().HasData(new Product
             {
                 Id = 4,
-                Name = "Schwarzkopf - Hair Care and Skin Care Kit",
-                Description = "A kit provided by Schwarzkopf, containing skin care and hair care products",
-                ImageURL = "/Images/Beauty/Beauty4.png",
+                Name = "Kundan Bahubali Earrings ",
+                Description = "Gold and white earrings featured the iconic image of Radha and Krishna ",
+                ImageURL = "/Images/Earrings/Earrings4.png",
                 Price = 50,
                 Qty = 60,
                 CategoryId = 1
@@ -69,21 +67,21 @@ namespace ShopOnline.Api.Data
             modelBuilder.Entity<Product>().HasData(new Product
             {
                 Id = 5,
-                Name = "Skin Care Kit",
-                Description = "Skin Care Kit, containing skin care and hair care products",
-                ImageURL = "/Images/Beauty/Beauty5.png",
+                Name = "Dome shaped Jhumkas",
+                Description = "Black and gold plated enamelled dome shaped jhumkas",
+                ImageURL = "/Images/Earrings/Earrings5.png",
                 Price = 30,
                 Qty = 85,
                 CategoryId = 1
 
             });
-            //Electronics Category
+            //Bangles Category
             modelBuilder.Entity<Product>().HasData(new Product
             {
                 Id = 6,
-                Name = "Air Pods",
-                Description = "Air Pods - in-ear wireless headphones",
-                ImageURL = "/Images/Electronic/Electronics1.png",
+                Name = "Gold Set of 12",
+                Description = "Gold plated set of 12 classy design",
+                ImageURL = "/Images/Bangles/Bangles1.png",
                 Price = 100,
                 Qty = 120,
                 CategoryId = 3
@@ -92,9 +90,9 @@ namespace ShopOnline.Api.Data
             modelBuilder.Entity<Product>().HasData(new Product
             {
                 Id = 7,
-                Name = "On-ear Golden Headphones",
-                Description = "On-ear Golden Headphones - these headphones are not wireless",
-                ImageURL = "/Images/Electronic/Electronics2.png",
+                Name = "Brass Openable Kada",
+                Description = "Premium quality brass base opeable bangle with multiple stones",
+                ImageURL = "/Images/Bangles/Bangles2.png",
                 Price = 40,
                 Qty = 200,
                 CategoryId = 3
@@ -103,9 +101,9 @@ namespace ShopOnline.Api.Data
             modelBuilder.Entity<Product>().HasData(new Product
             {
                 Id = 8,
-                Name = "On-ear Black Headphones",
-                Description = "On-ear Black Headphones - these headphones are not wireless",
-                ImageURL = "/Images/Electronic/Electronics3.png",
+                Name = "Gold Beaded Bangle",
+                Description = "Alloy base material with white beads",
+                ImageURL = "/Images/Bangles/Bangles3.png",
                 Price = 40,
                 Qty = 300,
                 CategoryId = 3
@@ -114,9 +112,9 @@ namespace ShopOnline.Api.Data
             modelBuilder.Entity<Product>().HasData(new Product
             {
                 Id = 9,
-                Name = "Sennheiser Digital Camera with Tripod",
-                Description = "Sennheiser Digital Camera - High quality digital camera provided by Sennheiser - includes tripod",
-                ImageURL = "/Images/Electronic/Electronic4.png",
+                Name = "Leaf Shaped bangle Set",
+                Description = "Enameled gold plated leaf shaped bangle set",
+                ImageURL = "/Images/Bangles/Bangles4.png",
                 Price = 600,
                 Qty = 20,
                 CategoryId = 3
@@ -125,10 +123,10 @@ namespace ShopOnline.Api.Data
             modelBuilder.Entity<Product>().HasData(new Product
             {
                 Id = 10,
-                Name = "Canon Digital Camera",
-                Description = "Canon Digital Camera - High quality digital camera provided by Canon",
-                ImageURL = "/Images/Electronic/Electronic5.png",
-                Price = 500,
+                Name = "Jumuka Bangle Set",
+                Description = "Traditional Blue and Golden color jumuka bangle set",
+                ImageURL = "/Images/Bangles/Bangles5.png",
+                Price = 100,
                 Qty = 15,
                 CategoryId = 3
 
@@ -136,20 +134,20 @@ namespace ShopOnline.Api.Data
             modelBuilder.Entity<Product>().HasData(new Product
             {
                 Id = 11,
-                Name = "Nintendo Gameboy",
-                Description = "Gameboy - Provided by Nintendo",
-                ImageURL = "/Images/Electronic/technology6.png",
+                Name = "Elephant Design Kada",
+                Description = "Rajwadhi plated elephant design brass kada",
+                ImageURL = "/Images/Bangles/Bangles6.png",
                 Price = 100,
                 Qty = 60,
                 CategoryId = 3
             });
-            //Furniture Category
+            //Necklaces Category
             modelBuilder.Entity<Product>().HasData(new Product
             {
                 Id = 12,
-                Name = "Black Leather Office Chair",
-                Description = "Very comfortable black leather office chair",
-                ImageURL = "/Images/Furniture/Furniture1.png",
+                Name = "Laxmi Pendant Necklace",
+                Description = "Golden necklace with laxmi pendant and green color stones",
+                ImageURL = "/Images/Necklaces/Necklaces1.png",
                 Price = 50,
                 Qty = 212,
                 CategoryId = 2
@@ -158,9 +156,9 @@ namespace ShopOnline.Api.Data
             modelBuilder.Entity<Product>().HasData(new Product
             {
                 Id = 13,
-                Name = "Pink Leather Office Chair",
-                Description = "Very comfortable pink leather office chair",
-                ImageURL = "/Images/Furniture/Furniture2.png",
+                Name = "Red Beaded Necklace",
+                Description = "Three layered red color beaded neckpiece",
+                ImageURL = "/Images/Necklaces/Necklaces2.png",
                 Price = 50,
                 Qty = 112,
                 CategoryId = 2
@@ -168,9 +166,9 @@ namespace ShopOnline.Api.Data
             modelBuilder.Entity<Product>().HasData(new Product
             {
                 Id = 14,
-                Name = "Lounge Chair",
-                Description = "Very comfortable lounge chair",
-                ImageURL = "/Images/Furniture/Furniture3.png",
+                Name = "Golden Necklace",
+                Description = "Alloy base material yellow gold plating necklace ",
+                ImageURL = "/Images/Necklaces/Necklaces3.png",
                 Price = 70,
                 Qty = 90,
                 CategoryId = 2
@@ -178,9 +176,9 @@ namespace ShopOnline.Api.Data
             modelBuilder.Entity<Product>().HasData(new Product
             {
                 Id = 15,
-                Name = "Silver Lounge Chair",
-                Description = "Very comfortable Silver lounge chair",
-                ImageURL = "/Images/Furniture/Furniture4.png",
+                Name = "Antique Tassel Necklaces",
+                Description = "Alloy material with gold antique tassel necklace",
+                ImageURL = "/Images/Necklaces/Necklaces4.png",
                 Price = 120,
                 Qty = 95,
                 CategoryId = 2
@@ -188,9 +186,9 @@ namespace ShopOnline.Api.Data
             modelBuilder.Entity<Product>().HasData(new Product
             {
                 Id = 16,
-                Name = "Porcelain Table Lamp",
-                Description = "White and blue Porcelain Table Lamp",
-                ImageURL = "/Images/Furniture/Furniture6.png",
+                Name = "Red Ruby Necklace",
+                Description = "Handcrfted in brass alloy with ruby, pearl and meenakari work",
+                ImageURL = "/Images/Necklaces/Necklaces5.png",
                 Price = 15,
                 Qty = 100,
                 CategoryId = 2
@@ -198,20 +196,20 @@ namespace ShopOnline.Api.Data
             modelBuilder.Entity<Product>().HasData(new Product
             {
                 Id = 17,
-                Name = "Office Table Lamp",
-                Description = "Office Table Lamp",
-                ImageURL = "/Images/Furniture/Furniture7.png",
+                Name = "Long Mangalsuthra",
+                Description = "Golden brahmamudi long mangalsuthra with single vathi",
+                ImageURL = "/Images/Necklaces/Necklaces6.png",
                 Price = 20,
                 Qty = 73,
                 CategoryId = 2
             });
-            //Shoes Category
+            //Anklets Category
             modelBuilder.Entity<Product>().HasData(new Product
             {
                 Id = 18,
-                Name = "Puma Sneakers",
-                Description = "Comfortable Puma Sneakers in most sizes",
-                ImageURL = "/Images/Shoes/Shoes1.png",
+                Name = "Baraat Patterened Angle",
+                Description = "Bridal baraat muti-colored patterend angle",
+                ImageURL = "/Images/Anklets/Anklets1.png",
                 Price = 100,
                 Qty = 50,
                 CategoryId = 4
@@ -219,9 +217,9 @@ namespace ShopOnline.Api.Data
             modelBuilder.Entity<Product>().HasData(new Product
             {
                 Id = 19,
-                Name = "Colorful Trainers",
-                Description = "Colorful trainsers - available in most sizes",
-                ImageURL = "/Images/Shoes/Shoes2.png",
+                Name = "Polki's Anklet",
+                Description = "Beaurtifil Copper alloy polki's with white beads",
+                ImageURL = "/Images/Anklets/Anklets2.png",
                 Price = 150,
                 Qty = 60,
                 CategoryId = 4
@@ -229,9 +227,9 @@ namespace ShopOnline.Api.Data
             modelBuilder.Entity<Product>().HasData(new Product
             {
                 Id = 20,
-                Name = "Blue Nike Trainers",
-                Description = "Blue Nike Trainers - available in most sizes",
-                ImageURL = "/Images/Shoes/Shoes3.png",
+                Name = "Golden Chain Anklet",
+                Description = "Simple light weight elegant golden chain anklet",
+                ImageURL = "/Images/Anklets/Anklets3.png",
                 Price = 200,
                 Qty = 70,
                 CategoryId = 4
@@ -239,9 +237,9 @@ namespace ShopOnline.Api.Data
             modelBuilder.Entity<Product>().HasData(new Product
             {
                 Id = 21,
-                Name = "Colorful Hummel Trainers",
-                Description = "Colorful Hummel Trainers - available in most sizes",
-                ImageURL = "/Images/Shoes/Shoes4.png",
+                Name = "Peacock Design Anklet",
+                Description = "Beautiful simple silver paecock design anklet",
+                ImageURL = "/Images/Anklets/Anklets4.png",
                 Price = 120,
                 Qty = 120,
                 CategoryId = 4
@@ -249,19 +247,19 @@ namespace ShopOnline.Api.Data
             modelBuilder.Entity<Product>().HasData(new Product
             {
                 Id = 22,
-                Name = "Red Nike Trainers",
-                Description = "Red Nike Trainers - available in most sizes",
-                ImageURL = "/Images/Shoes/Shoes5.png",
-                Price = 200,
+                Name = "Gold Anklet",
+                Description = "Simple round shaped gold anklet",
+                ImageURL = "/Images/Anklets/Anklets5.png",
+                Price = 100,
                 Qty = 100,
                 CategoryId = 4
             });
             modelBuilder.Entity<Product>().HasData(new Product
             {
                 Id = 23,
-                Name = "Birkenstock Sandles",
-                Description = "Birkenstock Sandles - available in most sizes",
-                ImageURL = "/Images/Shoes/Shoes6.png",
+                Name = "Gold Stone Anklet",
+                Description = "Gold Plated anklet with muticolored stones",
+                ImageURL = "/Images/Anklets/Anklets6.png",
                 Price = 50,
                 Qty = 150,
                 CategoryId = 4
@@ -298,22 +296,22 @@ namespace ShopOnline.Api.Data
             modelBuilder.Entity<ProductCategory>().HasData(new ProductCategory
             {
                 Id = 1,
-                Name = "Beauty"
+                Name = "Earring"
             });
             modelBuilder.Entity<ProductCategory>().HasData(new ProductCategory
             {
                 Id = 2,
-                Name = "Furniture"
+                Name = "Necklace"
             });
             modelBuilder.Entity<ProductCategory>().HasData(new ProductCategory
             {
                 Id = 3,
-                Name = "Electronics"
+                Name = "Bangles/Bracelets"
             });
             modelBuilder.Entity<ProductCategory>().HasData(new ProductCategory
             {
                 Id = 4,
-                Name = "Shoes"
+                Name = "Anklet"
             });
 
         }

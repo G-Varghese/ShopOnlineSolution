@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "yol7Gy+gZez2BoElWiKdr3cLL59rFHlXNpt0D/pSnkU=",
+  "Hash": "HTco2HgFqPBLWkwDonWhzMKeFv5mPG8zOBqXkHwhCv8=",
   "Source": "ShopOnline.Web",
   "BasePath": "/",
   "Mode": "Root",
@@ -7959,12 +7959,12 @@
       "OriginalItemSpec": "wwwroot\\icon-192.png"
     },
     {
-      "Identity": "C:\\Users\\tomst\\Downloads\\Sample Works\\Blazor\\ShopOnlineSolution\\ShopOnline.Web\\wwwroot\\Images\\Beauty\\Beauty1.png",
+      "Identity": "C:\\Users\\tomst\\Downloads\\Sample Works\\Blazor\\ShopOnlineSolution\\ShopOnline.Web\\wwwroot\\Images\\Anklets\\Anklets1.png",
       "SourceId": "ShopOnline.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\tomst\\Downloads\\Sample Works\\Blazor\\ShopOnlineSolution\\ShopOnline.Web\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "Images/Beauty/Beauty1.png",
+      "RelativePath": "Images/Anklets/Anklets1.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -7975,15 +7975,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\Beauty\\Beauty1.png"
+      "OriginalItemSpec": "wwwroot\\Images\\Anklets\\Anklets1.png"
     },
     {
-      "Identity": "C:\\Users\\tomst\\Downloads\\Sample Works\\Blazor\\ShopOnlineSolution\\ShopOnline.Web\\wwwroot\\Images\\Beauty\\Beauty2.png",
+      "Identity": "C:\\Users\\tomst\\Downloads\\Sample Works\\Blazor\\ShopOnlineSolution\\ShopOnline.Web\\wwwroot\\Images\\Anklets\\Anklets2.png",
       "SourceId": "ShopOnline.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\tomst\\Downloads\\Sample Works\\Blazor\\ShopOnlineSolution\\ShopOnline.Web\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "Images/Beauty/Beauty2.png",
+      "RelativePath": "Images/Anklets/Anklets2.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -7994,15 +7994,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\Beauty\\Beauty2.png"
+      "OriginalItemSpec": "wwwroot\\Images\\Anklets\\Anklets2.png"
     },
     {
-      "Identity": "C:\\Users\\tomst\\Downloads\\Sample Works\\Blazor\\ShopOnlineSolution\\ShopOnline.Web\\wwwroot\\Images\\Beauty\\Beauty3.png",
+      "Identity": "C:\\Users\\tomst\\Downloads\\Sample Works\\Blazor\\ShopOnlineSolution\\ShopOnline.Web\\wwwroot\\Images\\Anklets\\Anklets3.png",
       "SourceId": "ShopOnline.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\tomst\\Downloads\\Sample Works\\Blazor\\ShopOnlineSolution\\ShopOnline.Web\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "Images/Beauty/Beauty3.png",
+      "RelativePath": "Images/Anklets/Anklets3.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -8013,15 +8013,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\Beauty\\Beauty3.png"
+      "OriginalItemSpec": "wwwroot\\Images\\Anklets\\Anklets3.png"
     },
     {
-      "Identity": "C:\\Users\\tomst\\Downloads\\Sample Works\\Blazor\\ShopOnlineSolution\\ShopOnline.Web\\wwwroot\\Images\\Beauty\\Beauty4.png",
+      "Identity": "C:\\Users\\tomst\\Downloads\\Sample Works\\Blazor\\ShopOnlineSolution\\ShopOnline.Web\\wwwroot\\Images\\Anklets\\Anklets4.png",
       "SourceId": "ShopOnline.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\tomst\\Downloads\\Sample Works\\Blazor\\ShopOnlineSolution\\ShopOnline.Web\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "Images/Beauty/Beauty4.png",
+      "RelativePath": "Images/Anklets/Anklets4.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -8032,15 +8032,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\Beauty\\Beauty4.png"
+      "OriginalItemSpec": "wwwroot\\Images\\Anklets\\Anklets4.png"
     },
     {
-      "Identity": "C:\\Users\\tomst\\Downloads\\Sample Works\\Blazor\\ShopOnlineSolution\\ShopOnline.Web\\wwwroot\\Images\\Beauty\\Beauty5.png",
+      "Identity": "C:\\Users\\tomst\\Downloads\\Sample Works\\Blazor\\ShopOnlineSolution\\ShopOnline.Web\\wwwroot\\Images\\Anklets\\Anklets5.png",
       "SourceId": "ShopOnline.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\tomst\\Downloads\\Sample Works\\Blazor\\ShopOnlineSolution\\ShopOnline.Web\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "Images/Beauty/Beauty5.png",
+      "RelativePath": "Images/Anklets/Anklets5.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -8051,15 +8051,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\Beauty\\Beauty5.png"
+      "OriginalItemSpec": "wwwroot\\Images\\Anklets\\Anklets5.png"
     },
     {
-      "Identity": "C:\\Users\\tomst\\Downloads\\Sample Works\\Blazor\\ShopOnlineSolution\\ShopOnline.Web\\wwwroot\\Images\\Electronic\\electronic4.png",
+      "Identity": "C:\\Users\\tomst\\Downloads\\Sample Works\\Blazor\\ShopOnlineSolution\\ShopOnline.Web\\wwwroot\\Images\\Anklets\\Anklets6.png",
       "SourceId": "ShopOnline.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\tomst\\Downloads\\Sample Works\\Blazor\\ShopOnlineSolution\\ShopOnline.Web\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "Images/Electronic/electronic4.png",
+      "RelativePath": "Images/Anklets/Anklets6.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -8070,15 +8070,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\Electronic\\electronic4.png"
+      "OriginalItemSpec": "wwwroot\\Images\\Anklets\\Anklets6.png"
     },
     {
-      "Identity": "C:\\Users\\tomst\\Downloads\\Sample Works\\Blazor\\ShopOnlineSolution\\ShopOnline.Web\\wwwroot\\Images\\Electronic\\electronic5.png",
+      "Identity": "C:\\Users\\tomst\\Downloads\\Sample Works\\Blazor\\ShopOnlineSolution\\ShopOnline.Web\\wwwroot\\Images\\Bangles\\Bangles1.png",
       "SourceId": "ShopOnline.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\tomst\\Downloads\\Sample Works\\Blazor\\ShopOnlineSolution\\ShopOnline.Web\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "Images/Electronic/electronic5.png",
+      "RelativePath": "Images/Bangles/Bangles1.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -8089,15 +8089,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\Electronic\\electronic5.png"
+      "OriginalItemSpec": "wwwroot\\Images\\Bangles\\Bangles1.png"
     },
     {
-      "Identity": "C:\\Users\\tomst\\Downloads\\Sample Works\\Blazor\\ShopOnlineSolution\\ShopOnline.Web\\wwwroot\\Images\\Electronic\\Electronics1.png",
+      "Identity": "C:\\Users\\tomst\\Downloads\\Sample Works\\Blazor\\ShopOnlineSolution\\ShopOnline.Web\\wwwroot\\Images\\Bangles\\Bangles2.png",
       "SourceId": "ShopOnline.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\tomst\\Downloads\\Sample Works\\Blazor\\ShopOnlineSolution\\ShopOnline.Web\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "Images/Electronic/Electronics1.png",
+      "RelativePath": "Images/Bangles/Bangles2.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -8108,15 +8108,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\Electronic\\Electronics1.png"
+      "OriginalItemSpec": "wwwroot\\Images\\Bangles\\Bangles2.png"
     },
     {
-      "Identity": "C:\\Users\\tomst\\Downloads\\Sample Works\\Blazor\\ShopOnlineSolution\\ShopOnline.Web\\wwwroot\\Images\\Electronic\\electronics2.png",
+      "Identity": "C:\\Users\\tomst\\Downloads\\Sample Works\\Blazor\\ShopOnlineSolution\\ShopOnline.Web\\wwwroot\\Images\\Bangles\\Bangles3.png",
       "SourceId": "ShopOnline.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\tomst\\Downloads\\Sample Works\\Blazor\\ShopOnlineSolution\\ShopOnline.Web\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "Images/Electronic/electronics2.png",
+      "RelativePath": "Images/Bangles/Bangles3.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -8127,15 +8127,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\Electronic\\electronics2.png"
+      "OriginalItemSpec": "wwwroot\\Images\\Bangles\\Bangles3.png"
     },
     {
-      "Identity": "C:\\Users\\tomst\\Downloads\\Sample Works\\Blazor\\ShopOnlineSolution\\ShopOnline.Web\\wwwroot\\Images\\Electronic\\Electronics3.png",
+      "Identity": "C:\\Users\\tomst\\Downloads\\Sample Works\\Blazor\\ShopOnlineSolution\\ShopOnline.Web\\wwwroot\\Images\\Bangles\\Bangles4.png",
       "SourceId": "ShopOnline.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\tomst\\Downloads\\Sample Works\\Blazor\\ShopOnlineSolution\\ShopOnline.Web\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "Images/Electronic/Electronics3.png",
+      "RelativePath": "Images/Bangles/Bangles4.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -8146,15 +8146,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\Electronic\\Electronics3.png"
+      "OriginalItemSpec": "wwwroot\\Images\\Bangles\\Bangles4.png"
     },
     {
-      "Identity": "C:\\Users\\tomst\\Downloads\\Sample Works\\Blazor\\ShopOnlineSolution\\ShopOnline.Web\\wwwroot\\Images\\Electronic\\technology6.png",
+      "Identity": "C:\\Users\\tomst\\Downloads\\Sample Works\\Blazor\\ShopOnlineSolution\\ShopOnline.Web\\wwwroot\\Images\\Bangles\\Bangles5.png",
       "SourceId": "ShopOnline.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\tomst\\Downloads\\Sample Works\\Blazor\\ShopOnlineSolution\\ShopOnline.Web\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "Images/Electronic/technology6.png",
+      "RelativePath": "Images/Bangles/Bangles5.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -8165,15 +8165,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\Electronic\\technology6.png"
+      "OriginalItemSpec": "wwwroot\\Images\\Bangles\\Bangles5.png"
     },
     {
-      "Identity": "C:\\Users\\tomst\\Downloads\\Sample Works\\Blazor\\ShopOnlineSolution\\ShopOnline.Web\\wwwroot\\Images\\Furniture\\Furniture1.png",
+      "Identity": "C:\\Users\\tomst\\Downloads\\Sample Works\\Blazor\\ShopOnlineSolution\\ShopOnline.Web\\wwwroot\\Images\\Bangles\\Bangles6.png",
       "SourceId": "ShopOnline.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\tomst\\Downloads\\Sample Works\\Blazor\\ShopOnlineSolution\\ShopOnline.Web\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "Images/Furniture/Furniture1.png",
+      "RelativePath": "Images/Bangles/Bangles6.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -8184,15 +8184,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\Furniture\\Furniture1.png"
+      "OriginalItemSpec": "wwwroot\\Images\\Bangles\\Bangles6.png"
     },
     {
-      "Identity": "C:\\Users\\tomst\\Downloads\\Sample Works\\Blazor\\ShopOnlineSolution\\ShopOnline.Web\\wwwroot\\Images\\Furniture\\Furniture2.png",
+      "Identity": "C:\\Users\\tomst\\Downloads\\Sample Works\\Blazor\\ShopOnlineSolution\\ShopOnline.Web\\wwwroot\\Images\\Earrings\\Earrings1.png",
       "SourceId": "ShopOnline.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\tomst\\Downloads\\Sample Works\\Blazor\\ShopOnlineSolution\\ShopOnline.Web\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "Images/Furniture/Furniture2.png",
+      "RelativePath": "Images/Earrings/Earrings1.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -8203,15 +8203,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\Furniture\\Furniture2.png"
+      "OriginalItemSpec": "wwwroot\\Images\\Earrings\\Earrings1.png"
     },
     {
-      "Identity": "C:\\Users\\tomst\\Downloads\\Sample Works\\Blazor\\ShopOnlineSolution\\ShopOnline.Web\\wwwroot\\Images\\Furniture\\Furniture3.png",
+      "Identity": "C:\\Users\\tomst\\Downloads\\Sample Works\\Blazor\\ShopOnlineSolution\\ShopOnline.Web\\wwwroot\\Images\\Earrings\\Earrings2.png",
       "SourceId": "ShopOnline.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\tomst\\Downloads\\Sample Works\\Blazor\\ShopOnlineSolution\\ShopOnline.Web\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "Images/Furniture/Furniture3.png",
+      "RelativePath": "Images/Earrings/Earrings2.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -8222,15 +8222,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\Furniture\\Furniture3.png"
+      "OriginalItemSpec": "wwwroot\\Images\\Earrings\\Earrings2.png"
     },
     {
-      "Identity": "C:\\Users\\tomst\\Downloads\\Sample Works\\Blazor\\ShopOnlineSolution\\ShopOnline.Web\\wwwroot\\Images\\Furniture\\Furniture4.png",
+      "Identity": "C:\\Users\\tomst\\Downloads\\Sample Works\\Blazor\\ShopOnlineSolution\\ShopOnline.Web\\wwwroot\\Images\\Earrings\\Earrings3.png",
       "SourceId": "ShopOnline.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\tomst\\Downloads\\Sample Works\\Blazor\\ShopOnlineSolution\\ShopOnline.Web\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "Images/Furniture/Furniture4.png",
+      "RelativePath": "Images/Earrings/Earrings3.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -8241,15 +8241,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\Furniture\\Furniture4.png"
+      "OriginalItemSpec": "wwwroot\\Images\\Earrings\\Earrings3.png"
     },
     {
-      "Identity": "C:\\Users\\tomst\\Downloads\\Sample Works\\Blazor\\ShopOnlineSolution\\ShopOnline.Web\\wwwroot\\Images\\Furniture\\Furniture6.png",
+      "Identity": "C:\\Users\\tomst\\Downloads\\Sample Works\\Blazor\\ShopOnlineSolution\\ShopOnline.Web\\wwwroot\\Images\\Earrings\\Earrings4.png",
       "SourceId": "ShopOnline.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\tomst\\Downloads\\Sample Works\\Blazor\\ShopOnlineSolution\\ShopOnline.Web\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "Images/Furniture/Furniture6.png",
+      "RelativePath": "Images/Earrings/Earrings4.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -8260,15 +8260,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\Furniture\\Furniture6.png"
+      "OriginalItemSpec": "wwwroot\\Images\\Earrings\\Earrings4.png"
     },
     {
-      "Identity": "C:\\Users\\tomst\\Downloads\\Sample Works\\Blazor\\ShopOnlineSolution\\ShopOnline.Web\\wwwroot\\Images\\Furniture\\Furniture7.png",
+      "Identity": "C:\\Users\\tomst\\Downloads\\Sample Works\\Blazor\\ShopOnlineSolution\\ShopOnline.Web\\wwwroot\\Images\\Earrings\\Earrings5.png",
       "SourceId": "ShopOnline.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\tomst\\Downloads\\Sample Works\\Blazor\\ShopOnlineSolution\\ShopOnline.Web\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "Images/Furniture/Furniture7.png",
+      "RelativePath": "Images/Earrings/Earrings5.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -8279,15 +8279,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\Furniture\\Furniture7.png"
+      "OriginalItemSpec": "wwwroot\\Images\\Earrings\\Earrings5.png"
     },
     {
-      "Identity": "C:\\Users\\tomst\\Downloads\\Sample Works\\Blazor\\ShopOnlineSolution\\ShopOnline.Web\\wwwroot\\Images\\Shoes\\Shoes1.png",
+      "Identity": "C:\\Users\\tomst\\Downloads\\Sample Works\\Blazor\\ShopOnlineSolution\\ShopOnline.Web\\wwwroot\\Images\\Necklaces\\Necklaces1.png",
       "SourceId": "ShopOnline.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\tomst\\Downloads\\Sample Works\\Blazor\\ShopOnlineSolution\\ShopOnline.Web\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "Images/Shoes/Shoes1.png",
+      "RelativePath": "Images/Necklaces/Necklaces1.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -8298,15 +8298,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\Shoes\\Shoes1.png"
+      "OriginalItemSpec": "wwwroot\\Images\\Necklaces\\Necklaces1.png"
     },
     {
-      "Identity": "C:\\Users\\tomst\\Downloads\\Sample Works\\Blazor\\ShopOnlineSolution\\ShopOnline.Web\\wwwroot\\Images\\Shoes\\Shoes2.png",
+      "Identity": "C:\\Users\\tomst\\Downloads\\Sample Works\\Blazor\\ShopOnlineSolution\\ShopOnline.Web\\wwwroot\\Images\\Necklaces\\Necklaces2.png",
       "SourceId": "ShopOnline.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\tomst\\Downloads\\Sample Works\\Blazor\\ShopOnlineSolution\\ShopOnline.Web\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "Images/Shoes/Shoes2.png",
+      "RelativePath": "Images/Necklaces/Necklaces2.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -8317,15 +8317,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\Shoes\\Shoes2.png"
+      "OriginalItemSpec": "wwwroot\\Images\\Necklaces\\Necklaces2.png"
     },
     {
-      "Identity": "C:\\Users\\tomst\\Downloads\\Sample Works\\Blazor\\ShopOnlineSolution\\ShopOnline.Web\\wwwroot\\Images\\Shoes\\Shoes3.png",
+      "Identity": "C:\\Users\\tomst\\Downloads\\Sample Works\\Blazor\\ShopOnlineSolution\\ShopOnline.Web\\wwwroot\\Images\\Necklaces\\Necklaces3.png",
       "SourceId": "ShopOnline.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\tomst\\Downloads\\Sample Works\\Blazor\\ShopOnlineSolution\\ShopOnline.Web\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "Images/Shoes/Shoes3.png",
+      "RelativePath": "Images/Necklaces/Necklaces3.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -8336,15 +8336,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\Shoes\\Shoes3.png"
+      "OriginalItemSpec": "wwwroot\\Images\\Necklaces\\Necklaces3.png"
     },
     {
-      "Identity": "C:\\Users\\tomst\\Downloads\\Sample Works\\Blazor\\ShopOnlineSolution\\ShopOnline.Web\\wwwroot\\Images\\Shoes\\shoes4.png",
+      "Identity": "C:\\Users\\tomst\\Downloads\\Sample Works\\Blazor\\ShopOnlineSolution\\ShopOnline.Web\\wwwroot\\Images\\Necklaces\\Necklaces4.png",
       "SourceId": "ShopOnline.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\tomst\\Downloads\\Sample Works\\Blazor\\ShopOnlineSolution\\ShopOnline.Web\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "Images/Shoes/shoes4.png",
+      "RelativePath": "Images/Necklaces/Necklaces4.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -8355,15 +8355,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\Shoes\\shoes4.png"
+      "OriginalItemSpec": "wwwroot\\Images\\Necklaces\\Necklaces4.png"
     },
     {
-      "Identity": "C:\\Users\\tomst\\Downloads\\Sample Works\\Blazor\\ShopOnlineSolution\\ShopOnline.Web\\wwwroot\\Images\\Shoes\\Shoes5.png",
+      "Identity": "C:\\Users\\tomst\\Downloads\\Sample Works\\Blazor\\ShopOnlineSolution\\ShopOnline.Web\\wwwroot\\Images\\Necklaces\\Necklaces5.png",
       "SourceId": "ShopOnline.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\tomst\\Downloads\\Sample Works\\Blazor\\ShopOnlineSolution\\ShopOnline.Web\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "Images/Shoes/Shoes5.png",
+      "RelativePath": "Images/Necklaces/Necklaces5.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -8374,15 +8374,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\Shoes\\Shoes5.png"
+      "OriginalItemSpec": "wwwroot\\Images\\Necklaces\\Necklaces5.png"
     },
     {
-      "Identity": "C:\\Users\\tomst\\Downloads\\Sample Works\\Blazor\\ShopOnlineSolution\\ShopOnline.Web\\wwwroot\\Images\\Shoes\\Shoes6.png",
+      "Identity": "C:\\Users\\tomst\\Downloads\\Sample Works\\Blazor\\ShopOnlineSolution\\ShopOnline.Web\\wwwroot\\Images\\Necklaces\\Necklaces6.png",
       "SourceId": "ShopOnline.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\tomst\\Downloads\\Sample Works\\Blazor\\ShopOnlineSolution\\ShopOnline.Web\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "Images/Shoes/Shoes6.png",
+      "RelativePath": "Images/Necklaces/Necklaces6.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -8393,7 +8393,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\Shoes\\Shoes6.png"
+      "OriginalItemSpec": "wwwroot\\Images\\Necklaces\\Necklaces6.png"
     },
     {
       "Identity": "C:\\Users\\tomst\\Downloads\\Sample Works\\Blazor\\ShopOnlineSolution\\ShopOnline.Web\\wwwroot\\index.html",

@@ -109,19 +109,19 @@ namespace ShopOnline.Api.Migrations
                         {
                             Id = 1,
                             CategoryId = 1,
-                            Description = "A kit provided by Glossier, containing skin care, hair care and makeup products",
-                            ImageURL = "/Images/Beauty/Beauty1.png",
-                            Name = "Glossier - Beauty Kit",
-                            Price = 100m,
-                            Qty = 100
+                            Description = "Stylish and trendy traditional white pearl gold jhumka",
+                            ImageURL = "/Images/Earrings/Earrings1.png",
+                            Name = "White Pearl Gold Drop Jhumka",
+                            Price = 50m,
+                            Qty = 200
                         },
                         new
                         {
                             Id = 2,
                             CategoryId = 1,
-                            Description = "A kit provided by Curology, containing skin care products",
-                            ImageURL = "/Images/Beauty/Beauty2.png",
-                            Name = "Curology - Skin Care Kit",
+                            Description = "Muticolor stone statement earring, captivating crystal and an eye catchy lion drop",
+                            ImageURL = "/Images/Earrings/Earrings2.png",
+                            Name = "Contemporary Crystal Stone",
                             Price = 50m,
                             Qty = 45
                         },
@@ -129,9 +129,9 @@ namespace ShopOnline.Api.Migrations
                         {
                             Id = 3,
                             CategoryId = 1,
-                            Description = "A kit provided by Curology, containing skin care products",
-                            ImageURL = "/Images/Beauty/Beauty3.png",
-                            Name = "Cocooil - Organic Coconut Oil",
+                            Description = "Handcrafted in silver and brass alloy with cz stones",
+                            ImageURL = "/Images/Earrings/Earrings3.png",
+                            Name = "Red Ruby Stones",
                             Price = 20m,
                             Qty = 30
                         },
@@ -139,9 +139,9 @@ namespace ShopOnline.Api.Migrations
                         {
                             Id = 4,
                             CategoryId = 1,
-                            Description = "A kit provided by Schwarzkopf, containing skin care and hair care products",
-                            ImageURL = "/Images/Beauty/Beauty4.png",
-                            Name = "Schwarzkopf - Hair Care and Skin Care Kit",
+                            Description = "Gold and white earrings featured the iconic image of Radha and Krishna ",
+                            ImageURL = "/Images/Earrings/Earrings4.png",
+                            Name = "Kundan Bahubali Earrings ",
                             Price = 50m,
                             Qty = 60
                         },
@@ -149,9 +149,9 @@ namespace ShopOnline.Api.Migrations
                         {
                             Id = 5,
                             CategoryId = 1,
-                            Description = "Skin Care Kit, containing skin care and hair care products",
-                            ImageURL = "/Images/Beauty/Beauty5.png",
-                            Name = "Skin Care Kit",
+                            Description = "Black and gold plated enamelled dome shaped jhumkas",
+                            ImageURL = "/Images/Earrings/Earrings5.png",
+                            Name = "Dome shaped Jhumkas",
                             Price = 30m,
                             Qty = 85
                         },
@@ -159,9 +159,9 @@ namespace ShopOnline.Api.Migrations
                         {
                             Id = 6,
                             CategoryId = 3,
-                            Description = "Air Pods - in-ear wireless headphones",
-                            ImageURL = "/Images/Electronic/Electronics1.png",
-                            Name = "Air Pods",
+                            Description = "Gold plated set of 12 classy design",
+                            ImageURL = "/Images/Bangles/Bangles1.png",
+                            Name = "Gold Set of 12",
                             Price = 100m,
                             Qty = 120
                         },
@@ -169,9 +169,9 @@ namespace ShopOnline.Api.Migrations
                         {
                             Id = 7,
                             CategoryId = 3,
-                            Description = "On-ear Golden Headphones - these headphones are not wireless",
-                            ImageURL = "/Images/Electronic/Electronics2.png",
-                            Name = "On-ear Golden Headphones",
+                            Description = "Premium quality brass base opeable bangle with multiple stones",
+                            ImageURL = "/Images/Bangles/Bangles2.png",
+                            Name = "Brass Openable Kada",
                             Price = 40m,
                             Qty = 200
                         },
@@ -179,9 +179,9 @@ namespace ShopOnline.Api.Migrations
                         {
                             Id = 8,
                             CategoryId = 3,
-                            Description = "On-ear Black Headphones - these headphones are not wireless",
-                            ImageURL = "/Images/Electronic/Electronics3.png",
-                            Name = "On-ear Black Headphones",
+                            Description = "Alloy base material with white beads",
+                            ImageURL = "/Images/Bangles/Bangles3.png",
+                            Name = "Gold Beaded Bangle",
                             Price = 40m,
                             Qty = 300
                         },
@@ -189,9 +189,9 @@ namespace ShopOnline.Api.Migrations
                         {
                             Id = 9,
                             CategoryId = 3,
-                            Description = "Sennheiser Digital Camera - High quality digital camera provided by Sennheiser - includes tripod",
-                            ImageURL = "/Images/Electronic/Electronic4.png",
-                            Name = "Sennheiser Digital Camera with Tripod",
+                            Description = "Enameled gold plated leaf shaped bangle set",
+                            ImageURL = "/Images/Bangles/Bangles4.png",
+                            Name = "Leaf Shaped bangle Set",
                             Price = 600m,
                             Qty = 20
                         },
@@ -199,19 +199,19 @@ namespace ShopOnline.Api.Migrations
                         {
                             Id = 10,
                             CategoryId = 3,
-                            Description = "Canon Digital Camera - High quality digital camera provided by Canon",
-                            ImageURL = "/Images/Electronic/Electronic5.png",
-                            Name = "Canon Digital Camera",
-                            Price = 500m,
+                            Description = "Traditional Blue and Golden color jumuka bangle set",
+                            ImageURL = "/Images/Bangles/Bangles5.png",
+                            Name = "Jumuka Bangle Set",
+                            Price = 100m,
                             Qty = 15
                         },
                         new
                         {
                             Id = 11,
                             CategoryId = 3,
-                            Description = "Gameboy - Provided by Nintendo",
-                            ImageURL = "/Images/Electronic/technology6.png",
-                            Name = "Nintendo Gameboy",
+                            Description = "Rajwadhi plated elephant design brass kada",
+                            ImageURL = "/Images/Bangles/Bangles6.png",
+                            Name = "Elephant Design Kada",
                             Price = 100m,
                             Qty = 60
                         },
@@ -219,9 +219,9 @@ namespace ShopOnline.Api.Migrations
                         {
                             Id = 12,
                             CategoryId = 2,
-                            Description = "Very comfortable black leather office chair",
-                            ImageURL = "/Images/Furniture/Furniture1.png",
-                            Name = "Black Leather Office Chair",
+                            Description = "Golden necklace with laxmi pendant and green color stones",
+                            ImageURL = "/Images/Necklaces/Necklaces1.png",
+                            Name = "Laxmi Pendant Necklace",
                             Price = 50m,
                             Qty = 212
                         },
@@ -229,9 +229,9 @@ namespace ShopOnline.Api.Migrations
                         {
                             Id = 13,
                             CategoryId = 2,
-                            Description = "Very comfortable pink leather office chair",
-                            ImageURL = "/Images/Furniture/Furniture2.png",
-                            Name = "Pink Leather Office Chair",
+                            Description = "Three layered red color beaded neckpiece",
+                            ImageURL = "/Images/Necklaces/Necklaces2.png",
+                            Name = "Red Beaded Necklace",
                             Price = 50m,
                             Qty = 112
                         },
@@ -239,9 +239,9 @@ namespace ShopOnline.Api.Migrations
                         {
                             Id = 14,
                             CategoryId = 2,
-                            Description = "Very comfortable lounge chair",
-                            ImageURL = "/Images/Furniture/Furniture3.png",
-                            Name = "Lounge Chair",
+                            Description = "Alloy base material yellow gold plating necklace ",
+                            ImageURL = "/Images/Necklaces/Necklaces3.png",
+                            Name = "Golden Necklace",
                             Price = 70m,
                             Qty = 90
                         },
@@ -249,9 +249,9 @@ namespace ShopOnline.Api.Migrations
                         {
                             Id = 15,
                             CategoryId = 2,
-                            Description = "Very comfortable Silver lounge chair",
-                            ImageURL = "/Images/Furniture/Furniture4.png",
-                            Name = "Silver Lounge Chair",
+                            Description = "Alloy material with gold antique tassel necklace",
+                            ImageURL = "/Images/Necklaces/Necklaces4.png",
+                            Name = "Antique Tassel Necklaces",
                             Price = 120m,
                             Qty = 95
                         },
@@ -259,9 +259,9 @@ namespace ShopOnline.Api.Migrations
                         {
                             Id = 16,
                             CategoryId = 2,
-                            Description = "White and blue Porcelain Table Lamp",
-                            ImageURL = "/Images/Furniture/Furniture6.png",
-                            Name = "Porcelain Table Lamp",
+                            Description = "Handcrfted in brass alloy with ruby, pearl and meenakari work",
+                            ImageURL = "/Images/Necklaces/Necklaces5.png",
+                            Name = "Red Ruby Necklace",
                             Price = 15m,
                             Qty = 100
                         },
@@ -269,9 +269,9 @@ namespace ShopOnline.Api.Migrations
                         {
                             Id = 17,
                             CategoryId = 2,
-                            Description = "Office Table Lamp",
-                            ImageURL = "/Images/Furniture/Furniture7.png",
-                            Name = "Office Table Lamp",
+                            Description = "Golden brahmamudi long mangalsuthra with single vathi",
+                            ImageURL = "/Images/Necklaces/Necklaces6.png",
+                            Name = "Long Mangalsuthra",
                             Price = 20m,
                             Qty = 73
                         },
@@ -279,9 +279,9 @@ namespace ShopOnline.Api.Migrations
                         {
                             Id = 18,
                             CategoryId = 4,
-                            Description = "Comfortable Puma Sneakers in most sizes",
-                            ImageURL = "/Images/Shoes/Shoes1.png",
-                            Name = "Puma Sneakers",
+                            Description = "Bridal baraat muti-colored patterend angle",
+                            ImageURL = "/Images/Anklets/Anklets1.png",
+                            Name = "Baraat Patterened Angle",
                             Price = 100m,
                             Qty = 50
                         },
@@ -289,9 +289,9 @@ namespace ShopOnline.Api.Migrations
                         {
                             Id = 19,
                             CategoryId = 4,
-                            Description = "Colorful trainsers - available in most sizes",
-                            ImageURL = "/Images/Shoes/Shoes2.png",
-                            Name = "Colorful Trainers",
+                            Description = "Beaurtifil Copper alloy polki's with white beads",
+                            ImageURL = "/Images/Anklets/Anklets2.png",
+                            Name = "Polki's Anklet",
                             Price = 150m,
                             Qty = 60
                         },
@@ -299,9 +299,9 @@ namespace ShopOnline.Api.Migrations
                         {
                             Id = 20,
                             CategoryId = 4,
-                            Description = "Blue Nike Trainers - available in most sizes",
-                            ImageURL = "/Images/Shoes/Shoes3.png",
-                            Name = "Blue Nike Trainers",
+                            Description = "Simple light weight elegant golden chain anklet",
+                            ImageURL = "/Images/Anklets/Anklets3.png",
+                            Name = "Golden Chain Anklet",
                             Price = 200m,
                             Qty = 70
                         },
@@ -309,9 +309,9 @@ namespace ShopOnline.Api.Migrations
                         {
                             Id = 21,
                             CategoryId = 4,
-                            Description = "Colorful Hummel Trainers - available in most sizes",
-                            ImageURL = "/Images/Shoes/Shoes4.png",
-                            Name = "Colorful Hummel Trainers",
+                            Description = "Beautiful simple silver paecock design anklet",
+                            ImageURL = "/Images/Anklets/Anklets4.png",
+                            Name = "Peacock Design Anklet",
                             Price = 120m,
                             Qty = 120
                         },
@@ -319,19 +319,19 @@ namespace ShopOnline.Api.Migrations
                         {
                             Id = 22,
                             CategoryId = 4,
-                            Description = "Red Nike Trainers - available in most sizes",
-                            ImageURL = "/Images/Shoes/Shoes5.png",
-                            Name = "Red Nike Trainers",
-                            Price = 200m,
+                            Description = "Simple round shaped gold anklet",
+                            ImageURL = "/Images/Anklets/Anklets5.png",
+                            Name = "Gold Anklet",
+                            Price = 100m,
                             Qty = 100
                         },
                         new
                         {
                             Id = 23,
                             CategoryId = 4,
-                            Description = "Birkenstock Sandles - available in most sizes",
-                            ImageURL = "/Images/Shoes/Shoes6.png",
-                            Name = "Birkenstock Sandles",
+                            Description = "Gold Plated anklet with muticolored stones",
+                            ImageURL = "/Images/Anklets/Anklets6.png",
+                            Name = "Gold Stone Anklet",
                             Price = 50m,
                             Qty = 150
                         });
@@ -357,22 +357,22 @@ namespace ShopOnline.Api.Migrations
                         new
                         {
                             Id = 1,
-                            Name = "Beauty"
+                            Name = "Earring"
                         },
                         new
                         {
                             Id = 2,
-                            Name = "Furniture"
+                            Name = "Necklace"
                         },
                         new
                         {
                             Id = 3,
-                            Name = "Electronics"
+                            Name = "Bangles/Bracelets"
                         },
                         new
                         {
                             Id = 4,
-                            Name = "Shoes"
+                            Name = "Anklet"
                         });
                 });
 
