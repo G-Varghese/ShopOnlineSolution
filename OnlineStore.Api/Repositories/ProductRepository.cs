@@ -1,17 +1,18 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using ShopOnline.Api.Data;
 using ShopOnline.Api.Entities;
+using ShopOnline.Api.Repositories.Contracts;
 
-namespace ShopOnline.Api.Repositories.Contracts
+namespace ShopOnline.Api.Repositories
 {
     public class ProductRepository : IProductRepository
     {
         private readonly ShopOnlineDbContext shopOnlineDbContext;
-       
+
 
         public ProductRepository(ShopOnlineDbContext shopOnlineDbContext)
         {
-             this.shopOnlineDbContext = shopOnlineDbContext;
+            this.shopOnlineDbContext = shopOnlineDbContext;
         }
         public async Task<IEnumerable<ProductCategory>> GetCategories()
         {
@@ -19,20 +20,24 @@ namespace ShopOnline.Api.Repositories.Contracts
             return categories;
         }
 
-        public Task<ProductCategory> GetCategory(int id)
+        public async Task<ProductCategory> GetCategory(int id)
         {
-            throw new NotImplementedException();
+            var category = await shopOnlineDbContext.ProductCategories.SingleOrDefaultAsync(c => c.Id == id);
+            return category ?? new ProductCategory();  // Return an empty ProductCategory instead of null
         }
 
-        public Task<Product> GetItem(int id)
+
+        public async Task<Product> GetItem(int id)
         {
-            throw new NotImplementedException();
+            var product = await shopOnlineDbContext.Products.FindAsync(id);
+            return product ?? new Product();  // Return an empty Product instead of null
         }
+
 
         public async Task<IEnumerable<Product>> GetItems()
         {
             var products = await this.shopOnlineDbContext.Products.ToListAsync();
-            return products; 
+            return products;
         }
     }
 }

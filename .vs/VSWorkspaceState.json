@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\ShopOnline.Web",
+    "\\ShopOnline.Web\\Pages"
   ],
+  "SelectedNode": "\\ShopOnline.Web\\Pages\\ProductDetails.razor",
   "PreviewInSolutionExplorer": false
 }

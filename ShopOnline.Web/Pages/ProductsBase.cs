@@ -27,9 +27,13 @@ namespace ShopOnline.Web.Pages
 				   orderby prodByCatGroup.Key
 				   select prodByCatGroup;
 		}
-        protected string GetCategoryName(IGrouping< int, ProductDto> groupedProductDtos) 
+
+
+        protected string GetCategoryName(IGrouping<int, ProductDto> groupedProductDtos)
         {
-			return groupedProductDtos.FirstOrDefault(pg => pg.CategoryId == groupedProductDtos.Key).CategoryName;
+            var category = groupedProductDtos.FirstOrDefault(pg => pg.CategoryId == groupedProductDtos.Key);
+            return category?.CategoryName ?? "Unknown Category";  // Use null-coalescing to return a default value if null
         }
+
     }
 }

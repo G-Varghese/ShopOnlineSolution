@@ -7,6 +7,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Content Remove="Pages\ProductDetails.razor" />
+  </ItemGroup>
+
+  <ItemGroup>
     <None Remove="Pages\StyleSheet.css" />
   </ItemGroup>
 
@@ -17,6 +21,18 @@
 
   <ItemGroup>
     <ProjectReference Include="..\ShopOnline.Models\ShopOnline.Models.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <UpToDateCheckInput Remove="Pages\ProductDetails.razor" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <_ContentIncludedByDefault Remove="Pages\ProductDetails.razor" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Pages\ProductDetails.razor" />
   </ItemGroup>
 
 </Project>

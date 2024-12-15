@@ -35,6 +35,8 @@ C:\Users\tomst\Downloads\Sample Works\Blazor\ShopOnlineSolution\ShopOnline.Web\b
 C:\Users\tomst\Downloads\Sample Works\Blazor\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Win32.Registry.dll
 C:\Users\tomst\Downloads\Sample Works\Blazor\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\mscorlib.dll
 C:\Users\tomst\Downloads\Sample Works\Blazor\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\netstandard.dll
+C:\Users\tomst\Downloads\Sample Works\Blazor\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\ShopOnline.Models.dll
+C:\Users\tomst\Downloads\Sample Works\Blazor\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\ShopOnline.Models.pdb
 C:\Users\tomst\Downloads\Sample Works\Blazor\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\ShopOnline.Web.dll
 C:\Users\tomst\Downloads\Sample Works\Blazor\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\ShopOnline.Web.pdb
 C:\Users\tomst\Downloads\Sample Works\Blazor\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\System.AppContext.dll
@@ -265,6 +267,7 @@ C:\Users\tomst\Downloads\Sample Works\Blazor\ShopOnlineSolution\ShopOnline.Web\b
 C:\Users\tomst\Downloads\Sample Works\Blazor\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll.gz
 C:\Users\tomst\Downloads\Sample Works\Blazor\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\System.Security.dll.gz
 C:\Users\tomst\Downloads\Sample Works\Blazor\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Primitives.dll.gz
+C:\Users\tomst\Downloads\Sample Works\Blazor\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\ShopOnline.Models.dll.gz
 C:\Users\tomst\Downloads\Sample Works\Blazor\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.dll.gz
 C:\Users\tomst\Downloads\Sample Works\Blazor\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\icudt_CJK.dat.gz
 C:\Users\tomst\Downloads\Sample Works\Blazor\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\System.Configuration.dll.gz
@@ -349,6 +352,7 @@ C:\Users\tomst\Downloads\Sample Works\Blazor\ShopOnlineSolution\ShopOnline.Web\b
 C:\Users\tomst\Downloads\Sample Works\Blazor\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\System.Net.Security.dll.gz
 C:\Users\tomst\Downloads\Sample Works\Blazor\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Process.dll.gz
 C:\Users\tomst\Downloads\Sample Works\Blazor\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\System.Transactions.dll.gz
+C:\Users\tomst\Downloads\Sample Works\Blazor\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\ShopOnline.Models.pdb.gz
 C:\Users\tomst\Downloads\Sample Works\Blazor\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Extensions.dll.gz
 C:\Users\tomst\Downloads\Sample Works\Blazor\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll.gz
 C:\Users\tomst\Downloads\Sample Works\Blazor\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\System.dll.gz
@@ -594,12 +598,15 @@ C:\Users\tomst\Downloads\Sample Works\Blazor\ShopOnlineSolution\ShopOnline.Web\b
 C:\Users\tomst\Downloads\Sample Works\Blazor\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\icudt_CJK.dat
 C:\Users\tomst\Downloads\Sample Works\Blazor\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\icudt_EFIGS.dat
 C:\Users\tomst\Downloads\Sample Works\Blazor\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\icudt_no_CJK.dat
+C:\Users\tomst\Downloads\Sample Works\Blazor\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\ShopOnline.Models.dll
+C:\Users\tomst\Downloads\Sample Works\Blazor\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\ShopOnline.Models.pdb
 C:\Users\tomst\Downloads\Sample Works\Blazor\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\ShopOnline.Web.csproj.AssemblyReference.cache
 C:\Users\tomst\Downloads\Sample Works\Blazor\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\ShopOnline.Web.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\tomst\Downloads\Sample Works\Blazor\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\ShopOnline.Web.AssemblyInfoInputs.cache
 C:\Users\tomst\Downloads\Sample Works\Blazor\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\ShopOnline.Web.AssemblyInfo.cs
 C:\Users\tomst\Downloads\Sample Works\Blazor\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\ShopOnline.Web.csproj.CoreCompileInputs.cache
 C:\Users\tomst\Downloads\Sample Works\Blazor\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\ShopOnline.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tomst\Downloads\Sample Works\Blazor\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\ShopOnline.Web.sourcelink.json
 C:\Users\tomst\Downloads\Sample Works\Blazor\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\blazor.build.boot-extension.json
 C:\Users\tomst\Downloads\Sample Works\Blazor\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\blazor.boot.json
 C:\Users\tomst\Downloads\Sample Works\Blazor\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\staticwebassets.build.json
@@ -609,6 +616,7 @@ C:\Users\tomst\Downloads\Sample Works\Blazor\ShopOnlineSolution\ShopOnline.Web\o
 C:\Users\tomst\Downloads\Sample Works\Blazor\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ShopOnline.Web.props
 C:\Users\tomst\Downloads\Sample Works\Blazor\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ShopOnline.Web.props
 C:\Users\tomst\Downloads\Sample Works\Blazor\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\tomst\Downloads\Sample Works\Blazor\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\scopedcss\Pages\DisplayProducts.razor.rz.scp.css
 C:\Users\tomst\Downloads\Sample Works\Blazor\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
 C:\Users\tomst\Downloads\Sample Works\Blazor\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
 C:\Users\tomst\Downloads\Sample Works\Blazor\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\scopedcss\bundle\ShopOnline.Web.styles.css
@@ -809,6 +817,8 @@ C:\Users\tomst\Downloads\Sample Works\Blazor\ShopOnlineSolution\ShopOnline.Web\o
 C:\Users\tomst\Downloads\Sample Works\Blazor\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\compressed\amfmfyp7q1.gz
 C:\Users\tomst\Downloads\Sample Works\Blazor\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\compressed\997caj6td2.gz
 C:\Users\tomst\Downloads\Sample Works\Blazor\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\compressed\uqxg6kjl9x.gz
+C:\Users\tomst\Downloads\Sample Works\Blazor\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\compressed\akikq6mv6j.gz
+C:\Users\tomst\Downloads\Sample Works\Blazor\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\compressed\so7eqmsqar.gz
 C:\Users\tomst\Downloads\Sample Works\Blazor\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\compressed\r8gq6trvku.gz
 C:\Users\tomst\Downloads\Sample Works\Blazor\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\compressed\hkuyo038fa.gz
 C:\Users\tomst\Downloads\Sample Works\Blazor\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\compressed\uji5zuu4c3.gz
@@ -817,13 +827,3 @@ C:\Users\tomst\Downloads\Sample Works\Blazor\ShopOnlineSolution\ShopOnline.Web\o
 C:\Users\tomst\Downloads\Sample Works\Blazor\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\refint\ShopOnline.Web.dll
 C:\Users\tomst\Downloads\Sample Works\Blazor\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\ShopOnline.Web.pdb
 C:\Users\tomst\Downloads\Sample Works\Blazor\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\ref\ShopOnline.Web.dll
-C:\Users\tomst\Downloads\Sample Works\Blazor\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\ShopOnline.Models.dll
-C:\Users\tomst\Downloads\Sample Works\Blazor\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\ShopOnline.Models.pdb
-C:\Users\tomst\Downloads\Sample Works\Blazor\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\ShopOnline.Models.dll.gz
-C:\Users\tomst\Downloads\Sample Works\Blazor\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\ShopOnline.Models.pdb.gz
-C:\Users\tomst\Downloads\Sample Works\Blazor\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\ShopOnline.Models.dll
-C:\Users\tomst\Downloads\Sample Works\Blazor\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\ShopOnline.Models.pdb
-C:\Users\tomst\Downloads\Sample Works\Blazor\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\compressed\akikq6mv6j.gz
-C:\Users\tomst\Downloads\Sample Works\Blazor\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\compressed\so7eqmsqar.gz
-C:\Users\tomst\Downloads\Sample Works\Blazor\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\scopedcss\Pages\DisplayProducts.razor.rz.scp.css
-C:\Users\tomst\Downloads\Sample Works\Blazor\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\ShopOnline.Web.sourcelink.json

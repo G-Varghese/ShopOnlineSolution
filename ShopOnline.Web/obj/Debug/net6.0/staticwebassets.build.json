@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "HTco2HgFqPBLWkwDonWhzMKeFv5mPG8zOBqXkHwhCv8=",
+  "Hash": "BVCeCTmbEcH7bGBcNc9tPnVlxTPuRD4JJWpcRXR3dgA=",
   "Source": "ShopOnline.Web",
   "BasePath": "/",
   "Mode": "Root",
@@ -8071,6 +8071,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\Anklets\\Anklets6.png"
+    },
+    {
+      "Identity": "C:\\Users\\tomst\\Downloads\\Sample Works\\Blazor\\ShopOnlineSolution\\ShopOnline.Web\\wwwroot\\Images\\Anklets\\thomas.pdf",
+      "SourceId": "ShopOnline.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tomst\\Downloads\\Sample Works\\Blazor\\ShopOnlineSolution\\ShopOnline.Web\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "Images/Anklets/thomas.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Anklets\\thomas.pdf"
     },
     {
       "Identity": "C:\\Users\\tomst\\Downloads\\Sample Works\\Blazor\\ShopOnlineSolution\\ShopOnline.Web\\wwwroot\\Images\\Bangles\\Bangles1.png",
